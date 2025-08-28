@@ -23,7 +23,7 @@
 const xpay = new XPay({
   apiKey: 'your-api-key',
   apiSecret: 'your-api-secret',
-  baseUrl: 'https://api.x-pay.com'
+  baseUrl: 'https://api.x-pay.fun'
 });</code></pre>
     </div>
   </div>
